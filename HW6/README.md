@@ -11,6 +11,10 @@
 6. В десятичной системе 17, в шестнадцатеричной 11.
 7. Номера портов те же самые с точностью до того, что source и destination поменяны местами. 
 
+![wireshark_1](./assets/wireshark/udp_wireshark_1.png)
+![wireshark_2](./assets/wireshark/udp_wireshark_2.png)
+![wireshark_3](./assets/wireshark/udp_wireshark_3.png)
+
 ## FTP
 
 ### FileZilla
