@@ -19,4 +19,26 @@
 
 ### FileZilla
 
+FileZillaServer есть только для Windows и Debian-подобных дистрибутивов Linux, поэтому я поднимал сервер с помощью утилиты vsftpd. 
+
+#### Запуск сервера
+
+![vsftpd](./assets/vsftpd_config.png)
+
+#### Авторизация в клиенте
+
+![auth](./assets/filezilla/filezilla_enter.png)
+
+#### Создание директории
+
+![mkdir](./assets/filezilla/filezilla_create_directory.png)
+
+#### Скачивание файла 
+
+![download](./assets/filezilla/filezilla_download.png)
+
+#### Загрузка файла на сервер
+
+![upload](./assets/filezilla/filezilla_upload.png)
+
 ### FTP клиент
