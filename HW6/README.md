@@ -42,3 +42,20 @@ FileZillaServer есть только для Windows и Debian-подобных 
 ![upload](./assets/filezilla/filezilla_upload.png)
 
 ### FTP клиент
+
+Реализация клиента находится в файле [`client.py`](./ftp_client/client.py)
+
+Работа с ним происходит следующим образом:
+* Вывести содержимое директории
+  ```shell
+  python3 client.py -ho <host> [-u <username>] [-p <password>] -a list [-d <directory>]
+  ```
+* Скачать файл с сервера
+  ```shell
+  python3 client.py -ho <host> [-u <username>] [-p <password>] -a download [-d directory] -s <name_of_file_on_server> -l <path_to_local_file>
+  ```
+  
+* Загрузить файл на сервер 
+  ```shell
+  python3 client.py -ho <host> [-u <username>] [-p <password>] -a upload [-d directory] -s <name_of_file_on_server> -l <path_to_local_file> [-t text/binary]
+  ```
