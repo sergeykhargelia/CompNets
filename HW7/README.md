@@ -28,3 +28,7 @@
 ## Wireshark: работа с Time-Sequence-Graph (Stevens)
 
 ![time_sequence_graph](./assets/wireshark/sequence_numbers.png)
+
+## Теоретические задачи
+
+Решения теоретических задач находятся в файле [theory.pdf](./theory.pdf)
