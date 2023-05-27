@@ -13,4 +13,4 @@
 ![wireshark2](./assets/wireshark2.png)
 ## Теоретические задачи
 
-Решения задач находятся в файле ![theory.pdf](theory.pdf)
+Решения задач находятся в файле [theory.pdf](theory.pdf)
