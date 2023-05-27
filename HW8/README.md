@@ -3,8 +3,8 @@
 
 ## Контрольные суммы
 
-Решение находится в файле ![checksum.py](checksum.py)
+Решение находится в файле [checksum.py](checksum.py)
 
 ## Теоретические задачи
 
-Решения находятся в файле ![theory.pdf](theory.pdf)
+Решения находятся в файле [theory.pdf](theory.pdf)
